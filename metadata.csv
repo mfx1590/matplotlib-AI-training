@@ -1,0 +1,2 @@
+id,title,language,png,code,vector,additional_files,data
+001,Population Distribution Across Major US Cities,python,scatter_geo_chart.png,scatter_geo_chart.py,scatter_geo_chart.svg,TH_Sarabun_New.ttf,city_population.csv
